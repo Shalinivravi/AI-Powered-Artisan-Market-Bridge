@@ -1,0 +1,6 @@
+{
+  "name": "AI-Powered Artisan Market Bridge",
+  "description": "Virtual Business Manager & Digital Bridge for marginalized artisans featuring voice-first cataloging, computer vision recognition, smart pricing, and B2B buyer discovery.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
